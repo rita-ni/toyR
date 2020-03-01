@@ -1,0 +1,17 @@
+Package: toyR
+Title: toyR
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rita",
+           family = "Ni",
+           role = c("aut", "cre"),
+           email = "niruidan@gmail.com"
+Description: This is activity of lecture 2
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    toyR
